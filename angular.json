@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "Online-Quiz-application"
+    }
+  },
+  "defaultProject": "Online-Quiz-application",
+  "cli": {
+    "analytics": "ad46bb06-4ffd-4e14-b0e3-1fa3fd3ff23a"
+  }
 }
